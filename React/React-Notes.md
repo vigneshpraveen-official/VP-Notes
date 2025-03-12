@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/vp-notes.png" alt="Vigneshpraveen Banner" width="1000px" height="280px">
+  <img src="/vp-notes.png" alt="Vigneshpraveen Banner" width="1000px" height="280px">
 </p>
 
 
